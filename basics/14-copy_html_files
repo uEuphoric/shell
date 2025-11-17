@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.html ..
+cp -u $(ls *.html 2>/dev/null) ..
