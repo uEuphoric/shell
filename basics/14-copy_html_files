@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s nullglob; cp -u *.html ..
+cp -u *.html ..
